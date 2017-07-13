@@ -5,12 +5,12 @@ Computes contingency tables for relational databases, i.e. counts across tables
 
 + A relational database  `data-db`
 + A metadata database `setup-db`
-+ An output database `ct-db`
 + A list of first-order terms (aka functor nodes, first-order random variables) stored in the table `setup-db.FunctorSet`
 + Optional: A list of first-order variables stored in the table `setup-db.FunctorSet`
 
 
 ## output
++ An output database `ct-db`
 
 A table `ct-db.ct-table` of the form (fill in table format exaple) where
 

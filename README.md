@@ -21,4 +21,4 @@ A table `ct-db.ct-table` of the form (fill in table format exaple) where
 
 ## References
 
-The algorithm implements the method from (Qian et al.) based on metaqueries and the Inverse Fast Moebius Transform.
+The algorithm implements the method from (Qian et al. CIKM 2014) based on metaqueries and the Inverse Fast Moebius Transform.
